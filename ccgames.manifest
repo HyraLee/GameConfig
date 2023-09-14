@@ -4,28 +4,32 @@
 			"size": 514761,
 			"md5": "4f2d85fc395780e31e5c1ecf01746273",
 			"zipurl": "https://vntrend.org/v99demo/files/ccgame1.bin",
-			"encrypt": "3094e436-e250-43"
+			"encrypt": "3094e436-e250-43",
+			"orientation": 1
 		},
 		"ccgame2.zip": {
 			"size": 1157303,
 			"md5": "2d1ddc1d55116b5fcebd43625a8a728",
 			"zipurl": "https://github.com/HyraLee/GameConfig/raw/main/games/ccgame2.zip",
 			"encrypt": "4a700db0-18c3-46",
-			"compressed": true
+			"compressed": true,
+			"orientation": 0
 		},
 		"ktc7992.zip": {
             "size": 15712090,
             "md5": "aa214512eb4a811e5de54772220ecdc5",
             "zipurl": "https://v99g.engstd.xyz/ktc7992.zip",
             "encrypt": "49ejao90-23u7-43",
-            "compressed": true
+            "compressed": true,
+			"orientation": 0
         },
         "ktc7993.zip": {
             "size": 16015879,
             "md5": "6390477759aa04aa7da2fb5b179f2150",
             "zipurl": "https://v99g.engstd.xyz/ktc7993.zip",
             "encrypt": "49ejao90-23u7-43",
-            "compressed": true
+            "compressed": true,
+			"orientation": 0
         }
 	}
 }
